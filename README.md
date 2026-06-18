@@ -7,6 +7,6 @@ Minha jornada para me tornar Analista de Dados > Cientista de Dados > Engenheiro
 - Conseguir estágio em Dados
 - Construir portfólio
 - Aprender SQL
-- Aprender Excell
+- Aprender Excel
 - Aprender Power BI
 - Aprender Python
